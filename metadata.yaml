@@ -1,11 +1,16 @@
 _repo: Fifty-years-hence-or-What-May-Be-in-1943-A-Prophecy-Supposed-to-be-Based-on-Scientific-Deduct__68096
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68096-h/images/cover.jpg
 creator:
   author:
     agent_name: Grimshaw, Robert
     gutenberg_agent_id: '54597'
     url: http://www.gutenberg.org/2009/agents/54597
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68096#Fifty-years-hence-or-What-May-Be-in-1943-A-Prophecy-Supposed-to-be-Based-on-Scientific-Deduct_
 gutenberg_issued: '2022-05-15'
 identifiers:
   gutenberg: '68096'
